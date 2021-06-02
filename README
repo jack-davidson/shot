@@ -1,3 +1,15 @@
 shot
 ====
-Take screenshot; store screenshot in tmp file; copy screenshot to X clipboard; remove tmp file
+Short script to take a screenshot and copy it to X clipboard.
+
+installation
+============
+
+    # (clone the repo obviously)
+    # ensure ~/.local/bin is in PATH
+    make install
+
+usage
+=====
+
+    shot
