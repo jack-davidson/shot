@@ -1,0 +1,3 @@
+shot
+====
+Take screenshot; store screenshot in tmp file; copy screenshot to X clipboard; remove tmp file
